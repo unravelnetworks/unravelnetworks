@@ -2,7 +2,7 @@
 
 <h1 align="center">Unravel Networks</h1>
 
-<p align="center">Practical, open-source tools for security testers.</p>
+<p align="center">Independent cybersecurity research and engineering, founded by Hernan Trajtemberg. Rootnote is its first public tool.</p>
 
 ## Rootnote
 
